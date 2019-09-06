@@ -32,6 +32,14 @@ def now2():
     print('2015-3-25')
 
 
+@log2('execute')
+@log
+def now3():
+    print('2015-3-25')
+
+
 if __name__ == "__main__":
     now()
     print(now.__name__)
+    # 装饰器嵌套
+    now3()
