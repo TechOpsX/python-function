@@ -5,14 +5,16 @@
 """
 
 
-def my_factorial(num):
+def my_factorial(num: int) -> int:
     """
     Solve factorial
+    变量申明类型==>变量名: 变量类型
+    返回值类型申明==>在参数申明和：之间， -> 变量类型
 
     :param num: Non-negative integer
     :return: number's factorial
     """
-    result = 1
+    result: int = 1
     for n in range(1, num + 1):
         result *= n
     return result
