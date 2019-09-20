@@ -1,6 +1,9 @@
 ## Function Workshop
+
 Welcome to the function workshop for python. This workshop is designed to learn more about python's function.
+
 ### Goals of the teams
+
 1. Define a function - inculding 'def' keyword / function name / params list / return / call your customized function
 2. Call function - Python build-in function / import module and function (absoulte import and relative import)
 3. Function's params - Default param / variable params / keyword params / Named keyword params / Dynamic default params
@@ -10,6 +13,7 @@ Welcome to the function workshop for python. This workshop is designed to learn 
 7. Function decorators
 
 ### 目标
+
 1. 定义函数 - def语句 / 函数名 / 参数列表 / return语句 / 调用自定义函数
 2. 调用函数 - Python内置函数 / 导入模块和函数（绝对导入和相对导入）
 3. 函数的参数 - 默认参数 / 动态默认值参数 / 可变参数 / 关键字参数 / 命名关键字参数
